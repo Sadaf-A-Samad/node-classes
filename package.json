@@ -1,0 +1,15 @@
+{
+  "name": "hellonode",
+  "version": "1.0.0",
+  "main": "helloWorld.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node helloWorld.js"
+  },
+  "author": "tiict computer center",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "fs": "^0.0.1-security"
+  }
+}
